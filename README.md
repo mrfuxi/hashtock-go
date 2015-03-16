@@ -44,7 +44,7 @@ cd ~/go_packages/src/github.com/hashtock/hashtock-go
 - Sell hash tag
 - Current bank value of a given hash tag, and how much does it have for sell
 - Currnet bank value of all hash tags it knows about, and how much does it have for sell
-- History of bank operations (**ToDo**)
+- History of bank operations
 
 **Market**:
 - Accepts buy offers for a given hashtag+price+amount
